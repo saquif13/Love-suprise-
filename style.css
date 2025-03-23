@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ffdde1;
+}
+.container {
+    margin-top: 50px;
+}
+.profile-pic {
+    width: 150px;
+    border-radius: 50%;
+}
+h1 {
+    color: #ff4b5c;
+}
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#yesBtn {
+    background-color: #ff4b5c;
+    color: white;
+}
+#noBtn {
+    background-color: #ccc;
+    position: absolute;
+}
+.hidden {
+    display: none;
+}
